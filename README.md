@@ -1,6 +1,6 @@
 **한국어** | [English](https://github.com/jindeveloper-ai/jindeveloper-ai/blob/main/README.en.md)
 
-# SUJIN LEE
+# ![SUJIN LEE](https://raw.githubusercontent.com/jindeveloper-ai/jindeveloper-ai/main/assets/profile-header.svg)
 
 **영상디자인을 전공하고 영상콘텐츠 디자이너 출신 개발자입니다.**
 
@@ -37,7 +37,7 @@ AI 채팅 프론트엔드 **Risu를 위한 확장 프로그램**입니다.
 ## 대표 프로젝트
 
 **[MARS.NET](https://github.com/jindeveloper-ai/space-mafia-prototype)**<br>
-자유 입력 거짓말과 규칙 기반 판정을 결합한 화성 소셜 추리 게임입니다.<br>
+서울 ChatGPT 해커톤 출시용으로 개발한 마피아 게임입니다.<br>
 [로컬 실행·연습 모드](https://github.com/jindeveloper-ai/space-mafia-prototype#실행)
 
 **[Narin Character Profile](https://github.com/jindeveloper-ai/cat-widget-character-profile)**<br>

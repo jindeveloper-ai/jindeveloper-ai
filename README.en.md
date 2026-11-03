@@ -1,6 +1,6 @@
 [한국어](https://github.com/jindeveloper-ai/jindeveloper-ai/blob/main/README.md) | **English**
 
-# SUJIN LEE
+# ![SUJIN LEE](https://raw.githubusercontent.com/jindeveloper-ai/jindeveloper-ai/main/assets/profile-header.svg)
 
 **A developer with a background in video design and video content production.**
 
@@ -37,7 +37,7 @@ This screenshot shows the real UI with synthetic demo data and no private conver
 ## Selected projects
 
 **[MARS.NET](https://github.com/jindeveloper-ai/space-mafia-prototype)**<br>
-A Mars social deduction game combining free-text lies with rule-based adjudication.<br>
+A mafia game built for release at the Seoul ChatGPT hackathon.<br>
 [Local setup and practice mode](https://github.com/jindeveloper-ai/space-mafia-prototype#실행)
 
 **[Narin Character Profile](https://github.com/jindeveloper-ai/cat-widget-character-profile)**<br>
