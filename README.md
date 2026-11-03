@@ -1,38 +1,68 @@
+**한국어** | [English](https://github.com/jindeveloper-ai/jindeveloper-ai/blob/main/README.en.md)
+
 # SUJIN LEE
 
-**AI 앱 확장과 콘텐츠 자동화를 만듭니다.**
+**영상디자인을 전공하고 영상콘텐츠 디자이너 출신 개발자입니다.**
 
-대화를 읽고 듣는 도구, 규칙과 AI를 결합한 게임, 일상에서 쓰는 작은 자동화를 만듭니다. 문제 정의·기능 설계·검수를 주도하고 AI 도구와 협업해 구현합니다.
+제작 현장에서 쌓은 경험을 바탕으로 콘텐츠 작업과 일상의 반복 과정을 개선하는 AI 도구를 만듭니다.
+문제 정의와 기능 설계, AI 협업 구현, 결과 검증을 담당합니다.
 
-[포트폴리오](https://su-jin-lee-portfolio.pages.dev/) · [대표 개발 작업](https://github.com/jindeveloper-ai/risu-extensions-portfolio) · [설치 파일](https://github.com/jindeveloper-ai/risu-extensions-portfolio/releases/latest)
+[개인 포트폴리오](https://su-jin-lee-portfolio.pages.dev/) | [LinkedIn](https://www.linkedin.com/in/su-jin-lee-169606375/)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-
-## 대표 프로젝트
-
-| 프로젝트 | 무엇을 만들었나요? | 어떻게 이용하나요? |
-| --- | --- | --- |
-| [Risu Extensions](https://github.com/jindeveloper-ai/risu-extensions-portfolio) | 오디오북·속마음·복원 가능한 테마 전환, 세 개의 Risu 확장 | [화면·사용법](https://github.com/jindeveloper-ai/risu-extensions-portfolio/blob/main/docs/SCREENSHOTS.md) · [설치](https://github.com/jindeveloper-ai/risu-extensions-portfolio#설치할-때) |
-| [MARS.NET](https://github.com/jindeveloper-ai/space-mafia-prototype) | 자유 입력 거짓말과 규칙 기반 판정을 결합한 화성 소셜 추리 게임 | [로컬 실행·연습 모드](https://github.com/jindeveloper-ai/space-mafia-prototype#실행) |
-| [Narin Character Profile](https://github.com/jindeveloper-ai/cat-widget-character-profile) | 캐릭터의 세계관을 메신저·피드로 탐색하는 다국어 웹 프로필 | [실행 안내](https://github.com/jindeveloper-ai/cat-widget-character-profile#실행) |
-| [Clock Alarm Volume Guard](https://github.com/jindeveloper-ai/mac-clock-alarm-volume-guard) | macOS 알람 전에 내장 스피커를 준비하고 종료 후 오디오 상태 복원 | [설치·제거](https://github.com/jindeveloper-ai/mac-clock-alarm-volume-guard#설치와-확인) |
-| [Content Systems Portfolio](https://github.com/jindeveloper-ai/content-systems-portfolio) | 콘텐츠 자동화의 설계·검수 과정과 공개 근거를 설명하는 KO/EN 포트폴리오 | [웹에서 보기](https://su-jin-lee-portfolio.pages.dev/) · [소스 실행](https://github.com/jindeveloper-ai/content-systems-portfolio#개발) |
+![TypeScript](https://img.shields.io/badge/TypeScript-30363D?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-30363D?style=flat-square&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-30363D?style=flat-square&logo=lua&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-30363D?style=flat-square&logo=swift&logoColor=white)
 
 ## Risu 확장 자세히 보기
 
-[![Audio Book Maid 보관함 — 실제 UI와 데모 데이터](https://raw.githubusercontent.com/jindeveloper-ai/risu-extensions-portfolio/main/docs/screenshots/audio-library-desktop.png)](https://github.com/jindeveloper-ai/risu-extensions-portfolio)
+### [Risu Extensions](https://github.com/jindeveloper-ai/risu-extensions-portfolio)
 
-- **Audio Book Maid:** 화자별 목소리, 대본 검토, 회차 생성과 이어 듣기. [사용법](https://github.com/jindeveloper-ai/risu-extensions-portfolio/tree/main/projects/audio-book-maid)
-- **Doki Doki:** 선택한 응답의 속마음을 생성·저장하고 다시 열기. [사용법·GPL 안내](https://github.com/jindeveloper-ai/risu-extensions-portfolio/tree/main/projects/doki)
-- **PocketRisu 테마 전환기:** 테마 프리셋과 다크모드, 최초 테마 복원. [사용법](https://github.com/jindeveloper-ai/risu-extensions-portfolio/tree/main/projects/pocket-theme-switcher)
+AI 채팅 프론트엔드 **Risu를 위한 확장 프로그램**입니다.
+대화를 오디오북으로 듣고, 응답의 속마음을 열어 보고, 읽기 환경을 바꿀 수 있습니다.
 
-캡처는 개인 대화가 없는 합성 데모입니다. Linux 독립 설치·테스트와 브라우저 모의 시험을 구분해 기록했고, 실물 iPhone·새 GPU 환경 등 미검증 범위도 [호환성 문서](https://github.com/jindeveloper-ai/risu-extensions-portfolio/blob/main/docs/COMPATIBILITY.md)에 공개했습니다.
+<picture>
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/jindeveloper-ai/risu-extensions-portfolio/main/docs/screenshots/audio-library-mobile.png">
+  <img src="https://raw.githubusercontent.com/jindeveloper-ai/risu-extensions-portfolio/main/docs/screenshots/audio-library-desktop.png" alt="Audio Book Maid의 보관함과 이어 듣기 화면. 실제 UI를 합성 데모 데이터로 실행한 캡처입니다." width="760">
+</picture>
+
+캡처는 실제 UI에 개인 대화가 없는 합성 데모 데이터를 넣어 실행한 화면입니다.
+
+- **[Audio Book Maid](https://github.com/jindeveloper-ai/risu-extensions-portfolio/tree/main/projects/audio-book-maid)**: 화자별 목소리 설정, 대본 검토, 오디오 생성과 이어 듣기.
+- **[Doki Doki](https://github.com/jindeveloper-ai/risu-extensions-portfolio/tree/main/projects/doki)**: 선택한 응답의 속마음을 생성하고 저장해 다시 열기.
+- **[PocketRisu 테마 전환기](https://github.com/jindeveloper-ai/risu-extensions-portfolio/tree/main/projects/pocket-theme-switcher)**: 테마 프리셋, 다크 모드, 최초 테마 복원.
+
+[설치 파일](https://github.com/jindeveloper-ai/risu-extensions-portfolio/releases/latest) | [화면·사용법](https://github.com/jindeveloper-ai/risu-extensions-portfolio/blob/main/docs/SCREENSHOTS.md) | [지원 환경](https://github.com/jindeveloper-ai/risu-extensions-portfolio/blob/main/docs/COMPATIBILITY.md)
+
+## 대표 프로젝트
+
+**[MARS.NET](https://github.com/jindeveloper-ai/space-mafia-prototype)**<br>
+자유 입력 거짓말과 규칙 기반 판정을 결합한 화성 소셜 추리 게임입니다.<br>
+[로컬 실행·연습 모드](https://github.com/jindeveloper-ai/space-mafia-prototype#실행)
+
+**[Narin Character Profile](https://github.com/jindeveloper-ai/cat-widget-character-profile)**<br>
+Whif AI 채팅 웹서비스의 봇 **'나린'을 소개하는 웹사이트**입니다. 메신저와 피드로 캐릭터를 탐색할 수 있습니다.<br>
+[실행 안내](https://github.com/jindeveloper-ai/cat-widget-character-profile#실행)
+
+**[Clock Alarm Volume Guard](https://github.com/jindeveloper-ai/mac-clock-alarm-volume-guard)**<br>
+macOS 알람 전에 내장 스피커를 준비하고, 종료 후 오디오 상태를 복원하는 도구입니다.<br>
+[설치·제거](https://github.com/jindeveloper-ai/mac-clock-alarm-volume-guard#설치와-확인)
+
+**[Content Systems Portfolio](https://github.com/jindeveloper-ai/content-systems-portfolio)**<br>
+영상콘텐츠 제작 경험과 AI 콘텐츠 자동화 작업을 정리한 **개인 포트폴리오**입니다. 한국어와 영어로 볼 수 있습니다.<br>
+[소스 실행](https://github.com/jindeveloper-ai/content-systems-portfolio#개발)
 
 ## 작업 방식
 
-실제 사용 흐름을 먼저 정하고, 저장·취소·실패 복구까지 구현합니다. 테스트와 비밀정보 검사로 공개 범위를 확인하고, 외부 코드의 출처와 직접 개발한 범위를 구분합니다. 저장소별 라이선스와 지원 환경을 확인해 주세요.
+사용 흐름과 문제를 먼저 정리하고, 저장·취소·실패 복구까지 설계합니다.
+AI 에이전트는 주로 **Claude Code와 Codex**를 사용하며, 구현 후 실제 동작과 테스트로 결과를 검증합니다.
+외부 코드의 출처와 직접 개발한 범위를 구분해 기록합니다.
 
-English: I build AI app extensions, interactive experiences and practical automation. Each featured project links to source, setup instructions and its tested limits.
+<details>
+<summary>검증 범위와 라이선스</summary>
+
+Linux 독립 설치·테스트와 브라우저 모의 시험을 구분해 기록했습니다.
+실물 iPhone·새 GPU 설치 등 미검증 항목은 각 저장소와 [Risu 호환성 문서](https://github.com/jindeveloper-ai/risu-extensions-portfolio/blob/main/docs/COMPATIBILITY.md)에 명시했습니다.
+사용 전 저장소별 지원 환경과 라이선스를 확인해 주세요.
+
+</details>
