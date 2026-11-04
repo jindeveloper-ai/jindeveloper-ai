@@ -9,7 +9,7 @@
 
 # 안녕하세요, 수진입니다.
 
-**영상콘텐츠 디자이너 출신 개발자**로, 콘텐츠 작업과 일상의 반복을 줄이는 AI 도구를 만듭니다.
+**AI 응용·웹 개발자**입니다. 영상콘텐츠 제작 경험을 바탕으로 콘텐츠와 AI 채팅의 반복 작업을 줄이는 도구를 만듭니다. 문제 정의, 기능 설계, 검수를 주도하고 AI 코딩 도구와 협업해 구현합니다.
 
 [개인 포트폴리오](https://su-jin-lee-portfolio.pages.dev/) | [LinkedIn](https://www.linkedin.com/in/su-jin-lee-169606375/)
 
@@ -36,7 +36,7 @@ AI 채팅 프론트엔드 **Risu를 위한 확장 프로그램**입니다.
 ## 대표 프로젝트
 
 **[MARS.NET](https://github.com/jindeveloper-ai/space-mafia-prototype)**<br>
-서울 ChatGPT 해커톤 출시용으로 개발한 마피아 게임입니다.<br>
+규칙 기반 판정과 선택형 서버 AI 대화를 결합한 소셜 추리 게임입니다. 오프라인 연습 모드를 제공합니다.<br>
 [로컬 실행·연습 모드](https://github.com/jindeveloper-ai/space-mafia-prototype#실행)
 
 **[Narin Character Profile](https://github.com/jindeveloper-ai/cat-widget-character-profile)**<br>
@@ -51,7 +51,17 @@ macOS 알람 전에 내장 스피커를 준비하고, 종료 후 오디오 상�
 영상콘텐츠 제작 경험과 AI 콘텐츠 자동화 작업을 정리한 **개인 포트폴리오**입니다. 한국어와 영어로 볼 수 있습니다.<br>
 [소스 실행](https://github.com/jindeveloper-ai/content-systems-portfolio#개발)
 
-## 사용하는 기술과 도구
+## 프로젝트에서 사용한 기술
+
+| 프로젝트 | 구현과 검증에서 사용한 기술 |
+| --- | --- |
+| [Audio Book Maid](https://github.com/jindeveloper-ai/risu-extensions-portfolio/tree/main/projects/audio-book-maid) | TypeScript·Vite 플러그인, Python·FastAPI 음성 서버, 설치·테스트 안내 |
+| [Narin Character Profile](https://github.com/jindeveloper-ai/cat-widget-character-profile) | React·TypeScript 화면, Cloudflare Worker |
+| [Clock Alarm Volume Guard](https://github.com/jindeveloper-ai/mac-clock-alarm-volume-guard) | Swift로 알람 감지, 내장 스피커 볼륨 설정과 복원 |
+
+<details>
+<summary>그 밖에 사용하는 도구</summary>
+
 
 **프론트엔드**
 
@@ -79,6 +89,8 @@ macOS 알람 전에 내장 스피커를 준비하고, 종료 후 오디오 상�
 ![Linux](https://raw.githubusercontent.com/jindeveloper-ai/jindeveloper-ai/main/assets/badges/linux.svg)
 ![Notion](https://raw.githubusercontent.com/jindeveloper-ai/jindeveloper-ai/main/assets/badges/notion.svg)
 ![Slack](https://raw.githubusercontent.com/jindeveloper-ai/jindeveloper-ai/main/assets/badges/slack.svg)
+
+</details>
 
 ## 작업 방식
 

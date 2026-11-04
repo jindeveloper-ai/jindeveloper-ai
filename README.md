@@ -9,7 +9,7 @@
 
 # Hi, I'm Sujin.
 
-**Video designer turned developer.** I build practical AI tools for content work and everyday life.
+**AI application and web developer.** I build tools that reduce repetitive work in content production and AI chat. I lead problem definition, design, and verification, and use AI coding tools during implementation.
 
 [Personal portfolio](https://su-jin-lee-portfolio.pages.dev/) | [LinkedIn](https://www.linkedin.com/in/su-jin-lee-169606375/)
 
@@ -37,7 +37,7 @@ Three extensions for **Risu, an AI chat frontend**: turn conversations into audi
 ## Selected projects
 
 **[MARS.NET](https://github.com/jindeveloper-ai/space-mafia-prototype)**<br>
-A mafia game built for release at the Seoul ChatGPT hackathon.<br>
+A social deduction game with deterministic rules, optional server-side AI dialogue, and offline practice.<br>
 [Local setup and practice mode](https://github.com/jindeveloper-ai/space-mafia-prototype#실행)
 
 **[Narin Character Profile](https://github.com/jindeveloper-ai/cat-widget-character-profile)**<br>
@@ -52,7 +52,17 @@ A macOS tool that prepares the built-in speaker before an alarm and restores you
 My **personal portfolio**, covering video content production experience and AI content automation projects in Korean and English.<br>
 [Source setup](https://github.com/jindeveloper-ai/content-systems-portfolio#개발)
 
-## Tools I work with
+## Technologies in use
+
+| Project | Implementation and verification |
+| --- | --- |
+| [Audio Book Maid](https://github.com/jindeveloper-ai/risu-extensions-portfolio/tree/main/projects/audio-book-maid) | TypeScript and Vite extension, Python and FastAPI speech server, setup and test instructions |
+| [Narin Character Profile](https://github.com/jindeveloper-ai/cat-widget-character-profile) | React and TypeScript UI, Cloudflare Worker |
+| [Clock Alarm Volume Guard](https://github.com/jindeveloper-ai/mac-clock-alarm-volume-guard) | Swift alarm detection, built-in speaker volume control and restoration |
+
+<details>
+<summary>Other tools I use</summary>
+
 
 **Frontend**
 
@@ -80,6 +90,8 @@ My **personal portfolio**, covering video content production experience and AI c
 ![Linux](https://raw.githubusercontent.com/jindeveloper-ai/jindeveloper-ai/main/assets/badges/linux.svg)
 ![Notion](https://raw.githubusercontent.com/jindeveloper-ai/jindeveloper-ai/main/assets/badges/notion.svg)
 ![Slack](https://raw.githubusercontent.com/jindeveloper-ai/jindeveloper-ai/main/assets/badges/slack.svg)
+
+</details>
 
 <a id="작업-방식"></a>
 
