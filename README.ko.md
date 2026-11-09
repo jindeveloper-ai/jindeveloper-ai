@@ -13,6 +13,32 @@
 
 [개인 포트폴리오](https://su-jin-lee-portfolio.pages.dev/) | [LinkedIn](https://www.linkedin.com/in/su-jin-lee-169606375/)
 
+## 대표 프로젝트
+
+**[Comment Studio](https://github.com/jindeveloper-ai/comment-studio-track2)**<br>
+영상 맥락을 보면서 AI가 만든 YouTube 댓글 초안을 검수하고, 게시 결과까지 확인할 수 있는 로컬 대시보드입니다.<br>
+[시연 영상 보기](https://github.com/jindeveloper-ai/comment-studio-track2#시연-영상) · [로컬 실행](https://github.com/jindeveloper-ai/comment-studio-track2#빠른-시작)
+
+**[Risu Extensions](https://github.com/jindeveloper-ai/risu-extensions-portfolio)**<br>
+AI 채팅 프론트엔드 Risu의 확장 프로그램 3종입니다. 대화를 오디오북으로 듣고, 캐릭터의 속마음을 열어 보고, 읽기 테마를 바꿀 수 있습니다.<br>
+[화면과 기능 보기](#risu-확장-자세히-보기) · [v1.0.0 다운로드](https://github.com/jindeveloper-ai/risu-extensions-portfolio/releases/tag/v1.0.0)
+
+**[MARS.NET](https://github.com/jindeveloper-ai/space-mafia-prototype)**<br>
+서울 ChatGPT 해커톤 출품용으로 개발한 마피아 게임입니다. 규칙 기반 판정과 선택형 AI 대화, 오프라인 연습 모드를 제공합니다.<br>
+[로컬 실행·연습 모드](https://github.com/jindeveloper-ai/space-mafia-prototype#실행)
+
+**[Narin Character Profile](https://github.com/jindeveloper-ai/cat-widget-character-profile)**<br>
+Whif AI 채팅 웹서비스의 봇 **'나린'을 소개하는 웹사이트**입니다. 메신저와 피드로 캐릭터를 탐색할 수 있습니다.<br>
+[실행 안내](https://github.com/jindeveloper-ai/cat-widget-character-profile#실행)
+
+**[Clock Alarm Volume Guard](https://github.com/jindeveloper-ai/mac-clock-alarm-volume-guard)**<br>
+macOS 알람 전에 내장 스피커를 준비하고, 종료 후 오디오 상태를 복원하는 도구입니다.<br>
+[설치·제거](https://github.com/jindeveloper-ai/mac-clock-alarm-volume-guard#설치와-확인)
+
+**[Content Systems Portfolio](https://github.com/jindeveloper-ai/content-systems-portfolio)**<br>
+영상콘텐츠 제작 경험과 AI 콘텐츠 자동화 작업을 정리한 **개인 포트폴리오**입니다. 한국어와 영어로 볼 수 있습니다.<br>
+[AI 콘텐츠 자동화 사례 보기](https://su-jin-lee-portfolio.pages.dev/work/content-automation/) · [소스 실행](https://github.com/jindeveloper-ai/content-systems-portfolio#개발)
+
 ## Risu 확장 자세히 보기
 
 ### [Risu Extensions](https://github.com/jindeveloper-ai/risu-extensions-portfolio)
@@ -32,24 +58,6 @@ AI 채팅 프론트엔드 **Risu를 위한 확장 프로그램**입니다.
 - **[PocketRisu 테마 전환기](https://github.com/jindeveloper-ai/risu-extensions-portfolio/tree/main/projects/pocket-theme-switcher)**: 테마 프리셋, 다크 모드, 최초 테마 복원.
 
 [설치 파일](https://github.com/jindeveloper-ai/risu-extensions-portfolio/releases/latest) | [화면·사용법](https://github.com/jindeveloper-ai/risu-extensions-portfolio/blob/main/docs/SCREENSHOTS.md) | [지원 환경](https://github.com/jindeveloper-ai/risu-extensions-portfolio/blob/main/docs/COMPATIBILITY.md)
-
-## 대표 프로젝트
-
-**[MARS.NET](https://github.com/jindeveloper-ai/space-mafia-prototype)**<br>
-규칙 기반 판정과 선택형 서버 AI 대화를 결합한 소셜 추리 게임입니다. 오프라인 연습 모드를 제공합니다.<br>
-[로컬 실행·연습 모드](https://github.com/jindeveloper-ai/space-mafia-prototype#실행)
-
-**[Narin Character Profile](https://github.com/jindeveloper-ai/cat-widget-character-profile)**<br>
-Whif AI 채팅 웹서비스의 봇 **'나린'을 소개하는 웹사이트**입니다. 메신저와 피드로 캐릭터를 탐색할 수 있습니다.<br>
-[실행 안내](https://github.com/jindeveloper-ai/cat-widget-character-profile#실행)
-
-**[Clock Alarm Volume Guard](https://github.com/jindeveloper-ai/mac-clock-alarm-volume-guard)**<br>
-macOS 알람 전에 내장 스피커를 준비하고, 종료 후 오디오 상태를 복원하는 도구입니다.<br>
-[설치·제거](https://github.com/jindeveloper-ai/mac-clock-alarm-volume-guard#설치와-확인)
-
-**[Content Systems Portfolio](https://github.com/jindeveloper-ai/content-systems-portfolio)**<br>
-영상콘텐츠 제작 경험과 AI 콘텐츠 자동화 작업을 정리한 **개인 포트폴리오**입니다. 한국어와 영어로 볼 수 있습니다.<br>
-[소스 실행](https://github.com/jindeveloper-ai/content-systems-portfolio#개발)
 
 ## 프로젝트에서 사용한 기술
 

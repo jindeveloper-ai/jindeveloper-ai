@@ -13,6 +13,34 @@
 
 [Personal portfolio](https://su-jin-lee-portfolio.pages.dev/) | [LinkedIn](https://www.linkedin.com/in/su-jin-lee-169606375/)
 
+<a id="대표-프로젝트"></a>
+
+## Selected projects
+
+**[Comment Studio](https://github.com/jindeveloper-ai/comment-studio-track2)**<br>
+A local dashboard where you can review AI-drafted YouTube comments in context, approve them for posting, and verify the result.<br>
+[Watch the demo](https://github.com/jindeveloper-ai/comment-studio-track2#시연-영상) · [Run locally](https://github.com/jindeveloper-ai/comment-studio-track2#빠른-시작)
+
+**[Risu Extensions](https://github.com/jindeveloper-ai/risu-extensions-portfolio)**<br>
+Three extensions for the Risu AI chat frontend. Listen to conversations as audiobooks, explore a character's inner thoughts, or switch reading themes.<br>
+[See the extensions in action](#risu-extensions) · [Download v1.0.0](https://github.com/jindeveloper-ai/risu-extensions-portfolio/releases/tag/v1.0.0)
+
+**[MARS.NET](https://github.com/jindeveloper-ai/space-mafia-prototype)**<br>
+A mafia game built for the Seoul ChatGPT Hackathon, with rule-based play, optional AI dialogue, and offline practice.<br>
+[Local setup and practice mode](https://github.com/jindeveloper-ai/space-mafia-prototype#실행)
+
+**[Narin Character Profile](https://github.com/jindeveloper-ai/cat-widget-character-profile)**<br>
+A website introducing **Narin, a bot on the Whif AI chat service**, through a messenger-style profile and image feed.<br>
+[Setup guide](https://github.com/jindeveloper-ai/cat-widget-character-profile#실행)
+
+**[Clock Alarm Volume Guard](https://github.com/jindeveloper-ai/mac-clock-alarm-volume-guard)**<br>
+A macOS tool that prepares the built-in speaker before an alarm and restores your previous audio state afterward.<br>
+[Installation and removal](https://github.com/jindeveloper-ai/mac-clock-alarm-volume-guard#설치와-확인)
+
+**[Content Systems Portfolio](https://github.com/jindeveloper-ai/content-systems-portfolio)**<br>
+My **personal portfolio**, covering video content production experience and AI content automation projects in Korean and English.<br>
+[Explore the AI content automation case study](https://su-jin-lee-portfolio.pages.dev/work/content-automation/) · [Source setup](https://github.com/jindeveloper-ai/content-systems-portfolio#개발)
+
 <a id="risu-확장-자세히-보기"></a>
 
 ## [Risu Extensions](https://github.com/jindeveloper-ai/risu-extensions-portfolio)
@@ -31,26 +59,6 @@ Three extensions for **Risu, an AI chat frontend**: turn conversations into audi
 - **[PocketRisu Theme Switcher](https://github.com/jindeveloper-ai/risu-extensions-portfolio/tree/main/projects/pocket-theme-switcher)**: Apply presets, use dark mode, and restore your original theme.
 
 [Downloads](https://github.com/jindeveloper-ai/risu-extensions-portfolio/releases/latest) | [Screens and usage](https://github.com/jindeveloper-ai/risu-extensions-portfolio/blob/main/docs/SCREENSHOTS.md) | [Compatibility](https://github.com/jindeveloper-ai/risu-extensions-portfolio/blob/main/docs/COMPATIBILITY.md)
-
-<a id="대표-프로젝트"></a>
-
-## Selected projects
-
-**[MARS.NET](https://github.com/jindeveloper-ai/space-mafia-prototype)**<br>
-A social deduction game with deterministic rules, optional server-side AI dialogue, and offline practice.<br>
-[Local setup and practice mode](https://github.com/jindeveloper-ai/space-mafia-prototype#실행)
-
-**[Narin Character Profile](https://github.com/jindeveloper-ai/cat-widget-character-profile)**<br>
-A website introducing **Narin, a bot on the Whif AI chat service**, through a messenger-style profile and image feed.<br>
-[Setup guide](https://github.com/jindeveloper-ai/cat-widget-character-profile#실행)
-
-**[Clock Alarm Volume Guard](https://github.com/jindeveloper-ai/mac-clock-alarm-volume-guard)**<br>
-A macOS tool that prepares the built-in speaker before an alarm and restores your previous audio state afterward.<br>
-[Installation and removal](https://github.com/jindeveloper-ai/mac-clock-alarm-volume-guard#설치와-확인)
-
-**[Content Systems Portfolio](https://github.com/jindeveloper-ai/content-systems-portfolio)**<br>
-My **personal portfolio**, covering video content production experience and AI content automation projects in Korean and English.<br>
-[Source setup](https://github.com/jindeveloper-ai/content-systems-portfolio#개발)
 
 ## Technologies in use
 
